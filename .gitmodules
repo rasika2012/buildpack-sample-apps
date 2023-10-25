@@ -1,3 +1,6 @@
 [submodule "webapps/flask-example"]
 	path = webapps/flask-example
 	url = https://github.com/JanakaSandaruwan/flask-example.git
+[submodule "testrunner/pytest"]
+	path = testrunner/pytest
+	url = https://github.com/NomadXD/pytest_tutorial
